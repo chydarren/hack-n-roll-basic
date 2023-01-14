@@ -1,1 +1,1 @@
-/home/chydarren/hack-n-roll-basic/target/debug/text_or_die: /home/chydarren/hack-n-roll-basic/src/main.rs
+D:\Users\thinhong\Documents\NUS\OneDrive\ -\ National\ University\ of\ Singapore\Y2S1\CS2113\repos\basic\target\debug\text_or_die.exe: D:\Users\thinhong\Documents\NUS\OneDrive\ -\ National\ University\ of\ Singapore\Y2S1\CS2113\repos\basic\src\main.rs
