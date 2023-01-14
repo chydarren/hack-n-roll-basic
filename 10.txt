@@ -1,0 +1,7 @@
+Platformer
+Action-adventure
+Puzzle
+Racing
+Sports
+Fighting
+RPG
