@@ -14,7 +14,7 @@ fn read_file_to_string_array(file_path: &str) -> Vec<String> {
 
 fn main() {
 	let stdin = io::stdin();
-    println!("Hello, World!");
+    println!("OI where is my goodie bag?");
 	
     let question_pools = read_file_to_string_array("question_pool/question.txt");
 	
@@ -42,5 +42,5 @@ fn main() {
 		
     }
 	
-	println!("Wow, you scored {} marks!", marks);
+	println!("Wow, you scored {} marks only ah! Lapsap", marks);
 }
